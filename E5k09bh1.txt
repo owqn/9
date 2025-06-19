@@ -1,5 +1,5 @@
 -- New draggable Orion Lib script for hub creations!
-local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/WRUyYTdY')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/owqn/9/refs/heads/main/Orion8251')))()
 
 
 local Window = OrionLib:MakeWindow({
